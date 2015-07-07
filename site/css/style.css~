@@ -43,7 +43,7 @@ h4 {
 	line-height: 1em;
 	color: #16445c;
 	text-transform:uppercase;
-	text-align:center;
+	text-align:right;
 }
 p {margin-bottom: 19px;}
 .text-info {color:#000;}
