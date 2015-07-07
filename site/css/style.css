@@ -126,11 +126,11 @@ a.btn:hover {
 
 header {
 	display: block;
-	padding: 39px 0 0;
+	padding: 0px 0 0;
 	z-index: 999;
 	background:#242424;
 	width : 100;
-	height : 20;
+	height :20;
 }
 
 header h1 {
@@ -144,8 +144,8 @@ header h1 {
 header h1 a {display: inline-block;}
 header h1 a img {display: block;}
 
-nav {background:#85ccd9; margin-top:41px; padding:23px 0 21px 0;}
-nav .grid_12 {text-align:center;}
+nav {background:#558c89;margin-top: 0px; padding:0px 0 0px 0px;}
+nav ./home/sarah/decision_site {text-align:center;}
 
 /*******content********/
 #content {background: url(../images/content-bg.jpg) 0 0 repeat-x #f7f7f7;}
@@ -307,7 +307,6 @@ address dl span {display:inline-block; width:100px;}
 ..CSSTableGenerator {
 	margin:0px;padding:0px;
 	width:100%;
-	box-shadow: 10px 10px 5px #888888;
 	border:1px solid #ffffff;
 	
 	-moz-border-radius-bottomleft:0px;
@@ -357,7 +356,7 @@ address dl span {display:inline-block; width:100px;}
 .CSSTableGenerator td{
 	vertical-align:middle;
 	
-	background-color:#6699cc;
+	background-color:#74afad;
 
 	border:1px solid #ffffff;
 	border-width:0px 1px 1px 0px;
